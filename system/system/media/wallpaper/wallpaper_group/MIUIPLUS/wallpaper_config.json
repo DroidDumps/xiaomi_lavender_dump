@@ -1,0 +1,86 @@
+﻿{
+  "title": "MIUIPlus",
+  "subtitle": "MIUIPlus Team",
+  "cardType": 1,
+  "count": 16,
+  "slideCount": 16,
+  "randomOrder": false,
+  "wallpapers": [
+    {
+      "thumbPath": "./miuiplus7fav.jpg",
+      "originPath": "./miuiplus7fav.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus8fav.jpg",
+      "originPath": "./miuiplus05.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus1.jpg",
+      "originPath": "./miuiplus1.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus5.jpg",
+      "originPath": "./miuiplus5.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus7.jpg",
+      "originPath": "./miuiplus7.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus6.jpg",
+      "originPath": "./miuiplus6.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus2.jpg",
+      "originPath": "./miuiplus2.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus3.jpg",
+      "originPath": "./miuiplus3.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus.jpg",
+      "originPath": "./miuiplus.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplus9.jpg",
+      "originPath": "./miuiplus9.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplusextra.jpg",
+      "originPath": "./miuiplusextra.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplusextra1.jpg",
+      "originPath": "./miuiplusextra1.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplusextra2.jpg",
+      "originPath": "./miuiplusextra2.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplusextra3.jpg",
+      "originPath": "./miuiplusextra3.jpg",
+      "type": "wallpaper"
+    },
+    {
+      "thumbPath": "./miuiplusextra4.jpg",
+      "originPath": "./miuiplusextra4.jpg",
+      "type": "wallpaper"
+    }
+  ]
+  
+}

@@ -1,0 +1,39 @@
+{
+    "title": "5G Radyo Dalgaları",
+    "titleResId": "wallpaper_group_Radiowave_texture_title",
+    "subtitle":"Koray Kayaaltı",
+    "subtitleResId":"wallpaper_group_Radiowave_subtitle",
+    "cardType": 2,
+    "count": 8,
+    "slideCount": 8,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./Wave01.jpg",
+        "originPath": "./Wave01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Wave02.jpg",
+        "originPath": "./Wave02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Wave03.jpg",
+        "originPath": "./Wave03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Wave04.jpg",
+        "originPath": "./Wave04.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Wave05.jpg",
+        "originPath": "./Wave05.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Wave06.jpg",
+        "originPath": "./Wave06.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Wave07.jpg",
+        "originPath": "./Wave07.jpg",
+        "type": "wallpaper"
+    }]
+}

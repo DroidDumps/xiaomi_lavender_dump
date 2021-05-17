@@ -1,0 +1,35 @@
+{
+    "title": "Twist",
+    "titleResId": "wallpaper_group_Twist_texture_title",
+    "subtitle":"Koray Kayaaltı",
+    "subtitleResId":"wallpaper_group_Twist_subtitle",
+    "cardType": 1,
+    "count": 6,
+    "slideCount": 6,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./Twist01.jpg",
+        "originPath": "./Twist01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Twist02.jpg",
+        "originPath": "./Twist02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Twist03.jpg",
+        "originPath": "./Twist03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Twist04.jpg",
+        "originPath": "./Twist04.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Twist05.jpg",
+        "originPath": "./Twist05.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Twist06.jpg",
+        "originPath": "./Twist06.jpg",
+        "type": "wallpaper"
+    }]
+}

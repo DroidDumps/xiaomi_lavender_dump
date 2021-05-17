@@ -1,0 +1,37 @@
+{
+    "title": "CLMNT",
+    "titleResId": "Koray Kayaaltı",
+    "cardType": 2,
+    "count": 7,
+    "slideCount": 7,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./CLMNT01.jpg",
+        "originPath": "./CLMNT01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./CLMNT02.jpg",
+        "originPath": "./CLMNT02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./CLMNT03.jpg",
+        "originPath": "./CLMNT03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./CLMNT04.jpg",
+        "originPath": "./CLMNT04.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./CLMNT05.jpg",
+        "originPath": "./CLMT05.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./CLMNT06.jpg",
+        "originPath": "./CLMNT06.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./CLMNT07.jpg",
+        "originPath": "./CLMNT07.jpg",
+        "type": "wallpaper"
+    }]
+}
